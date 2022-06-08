@@ -1,0 +1,12 @@
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\bin\Debug\net6.0\GenerateService.deps.json
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\bin\Debug\net6.0\GenerateService.dll
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\bin\Debug\net6.0\GenerateService.pdb
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\obj\Debug\net6.0\GenerateService.csproj.AssemblyReference.cache
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\obj\Debug\net6.0\GenerateService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\obj\Debug\net6.0\GenerateService.AssemblyInfoInputs.cache
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\obj\Debug\net6.0\GenerateService.AssemblyInfo.cs
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\obj\Debug\net6.0\GenerateService.csproj.CoreCompileInputs.cache
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\obj\Debug\net6.0\GenerateService.dll
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\obj\Debug\net6.0\refint\GenerateService.dll
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\obj\Debug\net6.0\GenerateService.pdb
+C:\Users\matth\Desktop\XUnit\UnitTests\unit-testing-using-dotnet-test\GenerateService\obj\Debug\net6.0\ref\GenerateService.dll
